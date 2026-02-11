@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```
 ---
 
-### ③ ②PDFを配置
+### ②PDFを配置
 ```text
 input_pdf/
 ```
@@ -71,14 +71,14 @@ input_pdf/
 
 ---
 
-### ④ 実行
+### ③ 実行
 ```text
 python src/main.py
 ```
 
 ---
 
-### ⑤ 出力結果
+### ④ 出力結果
 ```text
 output/result_freq.csv
 output/result_freq.xlsx
@@ -86,7 +86,6 @@ output/result_tfidf.csv
 output/result_tfidf.xlsx
 ```
 ---
-
 # Google Colabで実行（推奨）
 
 環境構築不要。GoogleアカウントのみでOK。
